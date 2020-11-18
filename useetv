@@ -108,7 +108,7 @@ https://vcdnjt.useetv.com/dass/15/nhkpremium/chunklist_w900709631_b1344100_sleng
 #EXTINF:-1 tvg-id="" group-title="NEWS (USEETV)",RRI NET
 https://vcdnjt.useetv.com/dass/14/rrinet/chunklist_w753357334_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="NEWS (USEETV)",SEA TODAY
-https://cdnjt25.useetv.com/joss/18/seatodayweb/chunklist_w332926832_b1244100_sleng.m3u8
+https://vcdnjt.useetv.com/dass/18/seatodayweb/chunklist_w332926832_b1244100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="NEWS (USEETV)",TRT World
 https://vcdnjt.useetv.com/dass/14/trtworld/chunklist_w1218828461_b894100_sleng.m3u8 
 
@@ -117,14 +117,10 @@ https://vcdnjt.useetv.com/dass/14/trtworld/chunklist_w1218828461_b894100_sleng.m
 https://vcdnjt.useetv.com/dass/14/balitv/chunklist_w824417353_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",Daai TV
 https://vcdnjt.useetv.com/dass/14/daaitv/chunklist_w1990126573_b684100_sleng.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",GTV+
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",Idku
 https://cdnbpp1.useetv.com/joss/15/idku/chunklist_w100459009_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",Indosiar
 https://vcdnjt.useetv.com/dass/15/indosiar/chunklist_w455808105_b894100_sleng.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",INEWS+
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",Insert
 https://vcdnjt.useetv.com/dass/14/insert/chunklist_w111670104_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",JakTV
@@ -133,16 +129,12 @@ https://vcdnjt.useetv.com/dass/14/jaktv/chunklist_w938993482_b684100_sleng.m3u8
 https://vcdnjt.useetv.com/dass/14/jitv/chunklist_w624673844_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",JTV
 https://vcdnjt.useetv.com/dass/14/jtv/chunklist_w1494618021_b684100_sleng.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",MNCTV+
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",MyTV
 https://vcdnjt.useetv.com/dass/14/mytv/chunklist_w1765509584_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",Net.
 https://vcdnjt.useetv.com/dass/15/net/chunklist_w361536343_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",Rajawali TV
 https://vcdnjt.useetv.com/dass/14/rtv/chunklist_w735411308_b684100_sleng.m3u8
-#EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",RCTI+
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",Ruang Trampil
 https://vcdnjt.useetv.com/dass/15/useeinfo/chunklist_w160702004_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-id="" group-title="LOCAL (USEETV)",SCTV
