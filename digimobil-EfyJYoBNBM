@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="http://digimobil.org:7899/get.php?username=EfyJYoBNBM&password=RESFbg9GJl&type=m3u_plus&output=hls"
-
+#EXTM3U x-tvg-url="http://digimobil.org:7899/xmltv.php?username=EfyJYoBNBM&password=RESFbg9GJl&type=m3u_plus&output=hls"
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indonesia",Aljazeera EN
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/46466
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indonesia",Animal Planet HD
@@ -112,7 +111,6 @@ http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/26813
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/26814
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Indonesia",TV ONE
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/26789
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia",ABC AUSTRALIA
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/110216
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia",ABO Movies Thangathirai HD
@@ -447,7 +445,6 @@ http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/110185
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/110262
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Malaysia",XIAO TAI YANG HD
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/110179
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Thailand",Amarin HD
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/55589
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Thailand",Arena Sports 1
@@ -690,7 +687,6 @@ http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/55554
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/55605
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Thailand",Workpoint HD
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/55545
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",3e
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/389
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",4 SEVEN FHD
@@ -1801,7 +1797,6 @@ http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/54394
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/32095
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK",ZEE TV FHD
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/40211
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",A&E HD 1080P
 http://digimobil.org:7899/EfyJYoBNBM/RESFbg9GJl/8608
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="USA",ABC HD
