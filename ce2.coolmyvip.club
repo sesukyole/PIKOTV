@@ -1,4 +1,4 @@
-:EXTM3U
+:EXTM3U x-tvg-url="http://ce2.coolmyvip.club:8880/xmltv.php?username=ff2conn331&password=783f87a3&type=m3u_plus&output=hls"
 #EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="" group-title="Malaysia",ABC AUSTRALIA
 http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/71068
 #EXTINF:-1 tvg-id="" tvg-name="ADITHYA" tvg-logo="" group-title="Malaysia",ADITHYA
