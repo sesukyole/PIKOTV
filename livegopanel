@@ -1,381 +1,471 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Events: Corona Virus - Covid 19" group-title="Netherland",Events: Corona Virus - Covid 19
+#EXTINF:-1 tvg-name="Events: Corona Virus - Covid 19" group-title="@covid",Events: Corona Virus - Covid 19
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/38446
-#EXTINF:-1 tvg-name="ABC Australia" group-title="Indonesia",ABC Australia
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28817
-#EXTINF:-1 tvg-name="Animal Planet" group-title="Indonesia",Animal Planet
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28815
-#EXTINF:-1 tvg-name="ANTV" group-title="Indonesia",ANTV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6763
-#EXTINF:-1 tvg-name="Arirang Korea" group-title="Indonesia",Arirang Korea
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28813
-#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Indonesia",Asian Food Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28812
-#EXTINF:-1 tvg-name="Auto Gadget" group-title="Indonesia",Auto Gadget
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28811
-#EXTINF:-1 tvg-name="AXN" group-title="Indonesia",AXN
+#EXTINF:-1 tvg-name="AXN" group-title="Entertainment",AXN
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28816
-#EXTINF:-1 tvg-name="Baby TV" group-title="Indonesia",Baby TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28807
-#EXTINF:-1 tvg-name="Bali TV" group-title="Indonesia",Bali TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6757
-#EXTINF:-1 tvg-name="BBC Cbeebies" group-title="Indonesia",BBC Cbeebies
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28810
-#EXTINF:-1 tvg-name="BBC Earth" group-title="Indonesia",BBC Earth
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28809
-#EXTINF:-1 tvg-name="BBC World News" group-title="Indonesia",BBC World News
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28808
-#EXTINF:-1 tvg-name="beIN Sports 1" group-title="Indonesia",beIN Sports 1
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28732
-#EXTINF:-1 tvg-name="beIN Sports 2" group-title="Indonesia",beIN Sports 2
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28731
-#EXTINF:-1 tvg-name="beIN Sports 3" group-title="Indonesia",beIN Sports 3
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28730
-#EXTINF:-1 tvg-name="Berita Satu" group-title="Indonesia",Berita Satu
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28806
-#EXTINF:-1 tvg-name="Besmart" group-title="Indonesia",Besmart
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28805
-#EXTINF:-1 tvg-name="Bloomberg" group-title="Indonesia",Bloomberg
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28804
-#EXTINF:-1 tvg-name="Boomerang" group-title="Indonesia",Boomerang
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28803
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="Indonesia",Cartoon Network
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28798
-#EXTINF:-1 tvg-name="CCM" group-title="Indonesia",CCM
+#EXTINF:-1 tvg-name="CCM" group-title="Entertainment",CCM
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28802
-#EXTINF:-1 tvg-name="CCTV4" group-title="Indonesia",CCTV4
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28801
-#EXTINF:-1 tvg-name="Celestial Movies" group-title="Indonesia",Celestial Movies
+#EXTINF:-1 tvg-name="Celestial Movies" group-title="Entertainment",Celestial Movies
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28797
-#EXTINF:-1 tvg-name="Champion TV1 HD" group-title="Indonesia",Champion TV1 HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34547
-#EXTINF:-1 tvg-name="Champion TV2 HD" group-title="Indonesia",Champion TV2 HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34548
-#EXTINF:-1 tvg-name="Cinema World" group-title="Indonesia",Cinema World
+#EXTINF:-1 tvg-name="Cinema World" group-title="Entertainment",Cinema World
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6750
-#EXTINF:-1 tvg-name="Citra TV" group-title="Indonesia",Citra TV
+#EXTINF:-1 tvg-name="Citra TV" group-title="Entertainment",Citra TV
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28728
-#EXTINF:-1 tvg-name="CNBC" group-title="Indonesia",CNBC
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28800
-#EXTINF:-1 tvg-name="CNN" group-title="Indonesia",CNN
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28799
-#EXTINF:-1 tvg-name="CNN Indonesia" group-title="Indonesia",CNN Indonesia
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28727
-#EXTINF:-1 tvg-name="Comedy Channel" group-title="Indonesia",Comedy Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28795
-#EXTINF:-1 tvg-name="Crime Investigation" group-title="Indonesia",Crime Investigation
+#EXTINF:-1 tvg-name="Crime Investigation" group-title="Entertainment",Crime Investigation
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28794
-#EXTINF:-1 tvg-name="Daai TV" group-title="Indonesia",Daai TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28792
-#EXTINF:-1 tvg-name="DIGDAYATV" group-title="Indonesia",DIGDAYATV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28726
-#EXTINF:-1 tvg-name="Discovery Channel" group-title="Indonesia",Discovery Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28791
-#EXTINF:-1 tvg-name="Disney Channel" group-title="Indonesia",Disney Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28790
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Indonesia",Disney Junior
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28789
-#EXTINF:-1 tvg-name="Disney XD" group-title="Indonesia",Disney XD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28788
-#EXTINF:-1 tvg-name="DIVA" group-title="Indonesia",DIVA
+#EXTINF:-1 tvg-name="DIVA" group-title="Entertainment",DIVA
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28793
-#EXTINF:-1 tvg-name="Drama Channel" group-title="Indonesia",Drama Channel
+#EXTINF:-1 tvg-name="Drama Channel" group-title="Entertainment",Drama Channel
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28787
-#EXTINF:-1 tvg-name="E!" group-title="Indonesia",E!
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28786
-#EXTINF:-1 tvg-name="Euronews" group-title="Indonesia",Euronews
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28784
-#EXTINF:-1 tvg-name="EWTN" group-title="Indonesia",EWTN
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28785
-#EXTINF:-1 tvg-name="Fight Sports" group-title="Indonesia",Fight Sports
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28781
-#EXTINF:-1 tvg-name="FMN" group-title="Indonesia",FMN
+#EXTINF:-1 tvg-name="FMN" group-title="Entertainment",FMN
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28783
-#EXTINF:-1 tvg-name="Food Network" group-title="Indonesia",Food Network
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28780
-#EXTINF:-1 tvg-name="Fox" group-title="Indonesia",Fox
+#EXTINF:-1 tvg-name="Fox" group-title="Entertainment",Fox
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28777
-#EXTINF:-1 tvg-name="Fox Crime" group-title="Indonesia",Fox Crime
+#EXTINF:-1 tvg-name="Fox Crime" group-title="Entertainment",Fox Crime
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28779
-#EXTINF:-1 tvg-name="Fox Family Movies" group-title="Indonesia",Fox Family Movies
+#EXTINF:-1 tvg-name="Fox Family Movies" group-title="Entertainment",Fox Family Movies
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28778
-#EXTINF:-1 tvg-name="Fox Life" group-title="Indonesia",Fox Life
+#EXTINF:-1 tvg-name="Fox Life" group-title="Entertainment",Fox Life
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28776
-#EXTINF:-1 tvg-name="Fox Movies" group-title="Indonesia",Fox Movies
+#EXTINF:-1 tvg-name="Fox Movies" group-title="Entertainment",Fox Movies
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28774
-#EXTINF:-1 tvg-name="Fox Movies Action" group-title="Indonesia",Fox Movies Action
+#EXTINF:-1 tvg-name="Fox Movies Action" group-title="Entertainment",Fox Movies Action
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28775
-#EXTINF:-1 tvg-name="Fox News" group-title="Indonesia",Fox News
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28773
-#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Indonesia",Fox Sports 1
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28772
-#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Indonesia",Fox Sports 2
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28771
-#EXTINF:-1 tvg-name="Fox Sports 3" group-title="Indonesia",Fox Sports 3
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28770
-#EXTINF:-1 tvg-name="FX" group-title="Indonesia",FX
+#EXTINF:-1 tvg-name="FX" group-title="Entertainment",FX
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28782
-#EXTINF:-1 tvg-name="GLOBAL TV" group-title="Indonesia",GLOBAL TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6765
-#EXTINF:-1 tvg-name="HBO CINEMAX" group-title="Indonesia",HBO CINEMAX
+#EXTINF:-1 tvg-name="HBO CINEMAX" group-title="Entertainment",HBO CINEMAX
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45767
-#EXTINF:-1 tvg-name="HBO FAMILY" group-title="Indonesia",HBO FAMILY
+#EXTINF:-1 tvg-name="HBO FAMILY" group-title="Entertainment",HBO FAMILY
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45765
-#EXTINF:-1 tvg-name="HBO HITS" group-title="Indonesia",HBO HITS
+#EXTINF:-1 tvg-name="HBO HITS" group-title="Entertainment",HBO HITS
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45764
-#EXTINF:-1 tvg-name="HBO RED" group-title="Indonesia",HBO RED
+#EXTINF:-1 tvg-name="HBO RED" group-title="Entertainment",HBO RED
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45766
-#EXTINF:-1 tvg-name="HBO SIGNATURE" group-title="Indonesia",HBO SIGNATURE
+#EXTINF:-1 tvg-name="HBO SIGNATURE" group-title="Entertainment",HBO SIGNATURE
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45763
-#EXTINF:-1 tvg-name="HGTV" group-title="Indonesia",HGTV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28769
-#EXTINF:-1 tvg-name="Hidayah" group-title="Indonesia",Hidayah
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28768
-#EXTINF:-1 tvg-name="History" group-title="Indonesia",History
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28767
-#EXTINF:-1 tvg-name="Hits" group-title="Indonesia",Hits
+#EXTINF:-1 tvg-name="Hits" group-title="Entertainment",Hits
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28766
-#EXTINF:-1 tvg-name="Hits Movies" group-title="Indonesia",Hits Movies
+#EXTINF:-1 tvg-name="Hits Movies" group-title="Entertainment",Hits Movies
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28765
-#EXTINF:-1 tvg-name="i NEWS" group-title="Indonesia",i NEWS
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6762
-#EXTINF:-1 tvg-name="Indosiar TV" group-title="Indonesia",Indosiar TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6764
-#EXTINF:-1 tvg-name="Infotainment" group-title="Indonesia",Infotainment
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28763
-#EXTINF:-1 tvg-name="Insan TV" group-title="Indonesia",Insan TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28725
-#EXTINF:-1 tvg-name="Jak TV" group-title="Indonesia",Jak TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28762
-#EXTINF:-1 tvg-name="JTV" group-title="Indonesia",JTV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18544
-#EXTINF:-1 tvg-name="K+ HD" group-title="Indonesia",K+ HD
+#EXTINF:-1 tvg-name="K+ HD" group-title="Entertainment",K+ HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6744
-#EXTINF:-1 tvg-name="Kids Channel" group-title="Indonesia",Kids Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28760
-#EXTINF:-1 tvg-name="KIX" group-title="Indonesia",KIX
+#EXTINF:-1 tvg-name="KIX" group-title="Entertainment",KIX
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28761
-#EXTINF:-1 tvg-name="Kompas TV" group-title="Indonesia",Kompas TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18554
-#EXTINF:-1 tvg-name="Life" group-title="Indonesia",Life
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28759
-#EXTINF:-1 tvg-name="Life Style Fashion" group-title="Indonesia",Life Style Fashion
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28758
-#EXTINF:-1 tvg-name="Life Time" group-title="Indonesia",Life Time
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28757
-#EXTINF:-1 tvg-name="Metro" group-title="Indonesia",Metro
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6758
-#EXTINF:-1 tvg-name="MGSTV" group-title="Indonesia",MGSTV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28724
-#EXTINF:-1 tvg-name="MiaoMI" group-title="Indonesia",MiaoMI
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28755
-#EXTINF:-1 tvg-name="MIVO TV" group-title="Indonesia",MIVO TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45762
-#EXTINF:-1 tvg-name="MNC Entertainment" group-title="Indonesia",MNC Entertainment
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28756
-#EXTINF:-1 tvg-name="MNC News" group-title="Indonesia",MNC News
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6748
-#EXTINF:-1 tvg-name="MNC Shop" group-title="Indonesia",MNC Shop
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6746
-#EXTINF:-1 tvg-name="MNC SPORT HD" group-title="Indonesia",MNC SPORT HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6745
-#EXTINF:-1 tvg-name="MNC TV" group-title="Indonesia",MNC TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6760
-#EXTINF:-1 tvg-name="Movie Channel" group-title="Indonesia",Movie Channel
+#EXTINF:-1 tvg-name="Movie Channel" group-title="Entertainment",Movie Channel
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28754
-#EXTINF:-1 tvg-name="MTA TV" group-title="Indonesia",MTA TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28723
-#EXTINF:-1 tvg-name="Music Channel" group-title="Indonesia",Music Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28753
-#EXTINF:-1 tvg-name="MyTV HD" group-title="Indonesia",MyTV HD
+#EXTINF:-1 tvg-name="MyTV HD" group-title="Entertainment",MyTV HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18546
-#EXTINF:-1 tvg-name="Nat Geo" group-title="Indonesia",Nat Geo
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28752
-#EXTINF:-1 tvg-name="Nat Geo People" group-title="Indonesia",Nat Geo People
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28751
-#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Indonesia",Nat Geo Wild
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28750
-#EXTINF:-1 tvg-name="NET" group-title="Indonesia",NET
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6754
-#EXTINF:-1 tvg-name="News Asia Channel" group-title="Indonesia",News Asia Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28749
-#EXTINF:-1 tvg-name="NHK HD" group-title="Indonesia",NHK HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6743
-#EXTINF:-1 tvg-name="Nick" group-title="Indonesia",Nick
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28748
-#EXTINF:-1 tvg-name="Nick JR" group-title="Indonesia",Nick JR
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28747
-#EXTINF:-1 tvg-name="ONE TV" group-title="Indonesia",ONE TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6766
-#EXTINF:-1 tvg-name="Padang TV" group-title="Indonesia",Padang TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28722
-#EXTINF:-1 tvg-name="PADANJTV" group-title="Indonesia",PADANJTV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28721
-#EXTINF:-1 tvg-name="Premiere" group-title="Indonesia",Premiere
+#EXTINF:-1 tvg-name="Premiere" group-title="Entertainment",Premiere
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28746
-#EXTINF:-1 tvg-name="Rajawali Televisi" group-title="Indonesia",Rajawali Televisi
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28720
-#EXTINF:-1 tvg-name="RCTI" group-title="Indonesia",RCTI
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6759
-#EXTINF:-1 tvg-name="Reformed 21" group-title="Indonesia",Reformed 21
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28718
-#EXTINF:-1 tvg-name="Rodja TV" group-title="Indonesia",Rodja TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28717
-#EXTINF:-1 tvg-name="RTV" group-title="Indonesia",RTV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18545
-#EXTINF:-1 tvg-name="RTV TV" group-title="Indonesia",RTV TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28716
-#EXTINF:-1 tvg-name="RTV5 Makin" group-title="Indonesia",RTV5 Makin
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28745
-#EXTINF:-1 tvg-name="Sakti TV" group-title="Indonesia",Sakti TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28715
-#EXTINF:-1 tvg-name="Salam TV" group-title="Indonesia",Salam TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28714
-#EXTINF:-1 tvg-name="SC TV" group-title="Indonesia",SC TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6756
-#EXTINF:-1 tvg-name="SCM" group-title="Indonesia",SCM
+#EXTINF:-1 tvg-name="SCM" group-title="Entertainment",SCM
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28744
-#EXTINF:-1 tvg-name="SCM Legend" group-title="Indonesia",SCM Legend
+#EXTINF:-1 tvg-name="SCM Legend" group-title="Entertainment",SCM Legend
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28743
-#EXTINF:-1 tvg-name="Soccer Channel" group-title="Indonesia",Soccer Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28742
-#EXTINF:-1 tvg-name="Sony ONE" group-title="Indonesia",Sony ONE
+#EXTINF:-1 tvg-name="Sony ONE" group-title="Entertainment",Sony ONE
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18547
-#EXTINF:-1 tvg-name="TEGAR TV" group-title="Indonesia",TEGAR TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28713
-#EXTINF:-1 tvg-name="Tegar TV" group-title="Indonesia",Tegar TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28796
-#EXTINF:-1 tvg-name="The Indonesia Channel" group-title="Indonesia",The Indonesia Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28712
-#EXTINF:-1 tvg-name="Thrill" group-title="Indonesia",Thrill
+#EXTINF:-1 tvg-name="Thrill" group-title="Entertainment",Thrill
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18549
-#EXTINF:-1 tvg-name="TLC" group-title="Indonesia",TLC
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28741
-#EXTINF:-1 tvg-name="Trans 7" group-title="Indonesia",Trans 7
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6752
-#EXTINF:-1 tvg-name="Trans TV" group-title="Indonesia",Trans TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6751
-#EXTINF:-1 tvg-name="Travel Home" group-title="Indonesia",Travel Home
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28737
-#EXTINF:-1 tvg-name="Trial Clubbing TV" group-title="Indonesia",Trial Clubbing TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28736
-#EXTINF:-1 tvg-name="TV Edukasi" group-title="Indonesia",TV Edukasi
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28711
-#EXTINF:-1 tvg-name="TV9" group-title="Indonesia",TV9
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28740
-#EXTINF:-1 tvg-name="TVKU TV" group-title="Indonesia",TVKU TV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28710
-#EXTINF:-1 tvg-name="TVN" group-title="Indonesia",TVN
+#EXTINF:-1 tvg-name="TVN" group-title="Entertainment",TVN
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28739
-#EXTINF:-1 tvg-name="TVN Movies" group-title="Indonesia",TVN Movies
+#EXTINF:-1 tvg-name="TVN Movies" group-title="Entertainment",TVN Movies
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28738
-#EXTINF:-1 tvg-name="TVRI" group-title="Indonesia",TVRI
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6755
-#EXTINF:-1 tvg-name="TVRI 3" group-title="Indonesia",TVRI 3
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33178
-#EXTINF:-1 tvg-name="TVRI Aceh" group-title="Indonesia",TVRI Aceh
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33177
-#EXTINF:-1 tvg-name="TVRI Bali" group-title="Indonesia",TVRI Bali
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33184
-#EXTINF:-1 tvg-name="TVRI Bangka Belitung" group-title="Indonesia",TVRI Bangka Belitung
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33176
-#EXTINF:-1 tvg-name="TVRI Bengkulu" group-title="Indonesia",TVRI Bengkulu
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33175
-#EXTINF:-1 tvg-name="TVRI Gorontalo" group-title="Indonesia",TVRI Gorontalo
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33183
-#EXTINF:-1 tvg-name="TVRI Jakarta" group-title="Indonesia",TVRI Jakarta
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33174
-#EXTINF:-1 tvg-name="TVRI Jambi" group-title="Indonesia",TVRI Jambi
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33173
-#EXTINF:-1 tvg-name="TVRI Jawa Barat" group-title="Indonesia",TVRI Jawa Barat
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33172
-#EXTINF:-1 tvg-name="TVRI Jawa Tengah" group-title="Indonesia",TVRI Jawa Tengah
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33171
-#EXTINF:-1 tvg-name="TVRI Jawa Timur" group-title="Indonesia",TVRI Jawa Timur
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33170
-#EXTINF:-1 tvg-name="TVRI Kalimantan Barat" group-title="Indonesia",TVRI Kalimantan Barat
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33169
-#EXTINF:-1 tvg-name="TVRI Kalimantan Selatan" group-title="Indonesia",TVRI Kalimantan Selatan
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33168
-#EXTINF:-1 tvg-name="TVRI Kalimantan Tengah" group-title="Indonesia",TVRI Kalimantan Tengah
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33182
-#EXTINF:-1 tvg-name="TVRI Kalimantan Timur" group-title="Indonesia",TVRI Kalimantan Timur
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33181
-#EXTINF:-1 tvg-name="TVRI Lampung" group-title="Indonesia",TVRI Lampung
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33167
-#EXTINF:-1 tvg-name="TVRI Maluku" group-title="Indonesia",TVRI Maluku
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33166
-#EXTINF:-1 tvg-name="TVRI Nusa Tenggara Barat" group-title="Indonesia",TVRI Nusa Tenggara Barat
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33165
-#EXTINF:-1 tvg-name="TVRI Nusa Tenggara Timur" group-title="Indonesia",TVRI Nusa Tenggara Timur
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33164
-#EXTINF:-1 tvg-name="TVRI Papau" group-title="Indonesia",TVRI Papau
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33163
-#EXTINF:-1 tvg-name="TVRI Riau" group-title="Indonesia",TVRI Riau
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33162
-#EXTINF:-1 tvg-name="TVRI Sulawesi Barat" group-title="Indonesia",TVRI Sulawesi Barat
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33180
-#EXTINF:-1 tvg-name="TVRI Sulawesi Selatan" group-title="Indonesia",TVRI Sulawesi Selatan
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33179
-#EXTINF:-1 tvg-name="TVRI Sulawesi Tengah" group-title="Indonesia",TVRI Sulawesi Tengah
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33161
-#EXTINF:-1 tvg-name="TVRI Sulawesi Tengggara" group-title="Indonesia",TVRI Sulawesi Tengggara
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33160
-#EXTINF:-1 tvg-name="TVRI Sulawesi Utara" group-title="Indonesia",TVRI Sulawesi Utara
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33159
-#EXTINF:-1 tvg-name="TVRI Sumatera Barat" group-title="Indonesia",TVRI Sumatera Barat
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33158
-#EXTINF:-1 tvg-name="TVRI Sumatera Seletan" group-title="Indonesia",TVRI Sumatera Seletan
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33157
-#EXTINF:-1 tvg-name="TVRI Yogyakarta" group-title="Indonesia",TVRI Yogyakarta
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33156
-#EXTINF:-1 tvg-name="UChannel" group-title="Indonesia",UChannel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33185
-#EXTINF:-1 tvg-name="UseePhoto" group-title="Indonesia",UseePhoto
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33186
-#EXTINF:-1 tvg-name="UseePrime" group-title="Indonesia",UseePrime
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33187
-#EXTINF:-1 tvg-name="UseeSports" group-title="Indonesia",UseeSports
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33188
-#EXTINF:-1 tvg-name="UseeSports2" group-title="Indonesia",UseeSports2
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33189
-#EXTINF:-1 tvg-name="V Channel" group-title="Indonesia",V Channel
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28735
-#EXTINF:-1 tvg-name="VIP:X" group-title="Indonesia",VIP:X
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28764
-#EXTINF:-1 tvg-name="Waku Waku Japan" group-title="Indonesia",Waku Waku Japan
+#EXTINF:-1 tvg-name="Waku Waku Japan" group-title="Entertainment",Waku Waku Japan
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28734
-#EXTINF:-1 tvg-name="Warner TV" group-title="Indonesia",Warner TV
+#EXTINF:-1 tvg-name="Warner TV" group-title="Entertainment",Warner TV
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28733
-#EXTINF:-1 tvg-name="Wesal TV" group-title="Indonesia",Wesal TV
+#EXTINF:-1 tvg-name="Baby TV" group-title="Kids",Baby TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28807
+#EXTINF:-1 tvg-name="BBC Cbeebies" group-title="Kids",BBC Cbeebies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28810
+#EXTINF:-1 tvg-name="Besmart" group-title="Kids",Besmart
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28805
+#EXTINF:-1 tvg-name="Boomerang" group-title="Kids",Boomerang
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28803
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28798
+#EXTINF:-1 tvg-name="Disney Channel" group-title="Kids",Disney Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28790
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Kids",Disney Junior
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28789
+#EXTINF:-1 tvg-name="Disney XD" group-title="Kids",Disney XD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28788
+#EXTINF:-1 tvg-name="Kids Channel" group-title="Kids",Kids Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28760
+#EXTINF:-1 tvg-name="MiaoMI" group-title="Kids",MiaoMI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28755
+#EXTINF:-1 tvg-name="MIVO TV" group-title="Kids",MIVO TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/45762
+#EXTINF:-1 tvg-name="Nick" group-title="Kids",Nick
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28748
+#EXTINF:-1 tvg-name="Nick JR" group-title="Kids",Nick JR
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28747
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Knowledge",Animal Planet
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28815
+#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Knowledge",Asian Food Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28812
+#EXTINF:-1 tvg-name="BBC Earth" group-title="Knowledge",BBC Earth
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28809
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Knowledge",Discovery Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28791
+#EXTINF:-1 tvg-name="Food Network" group-title="Knowledge",Food Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28780
+#EXTINF:-1 tvg-name="HGTV" group-title="Knowledge",HGTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28769
+#EXTINF:-1 tvg-name="History" group-title="Knowledge",History
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28767
+#EXTINF:-1 tvg-name="Nat Geo" group-title="Knowledge",Nat Geo
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28752
+#EXTINF:-1 tvg-name="Nat Geo People" group-title="Knowledge",Nat Geo People
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28751
+#EXTINF:-1 tvg-name="Nat Geo Wild" group-title="Knowledge",Nat Geo Wild
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28750
+#EXTINF:-1 tvg-name="TLC" group-title="Knowledge",TLC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28741
+#EXTINF:-1 tvg-name="Auto Gadget" group-title="Lokal",Auto Gadget
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28811
+#EXTINF:-1 tvg-name="Bali TV" group-title="Lokal",Bali TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6757
+#EXTINF:-1 tvg-name="Comedy Channel" group-title="Lokal",Comedy Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28795
+#EXTINF:-1 tvg-name="DIGDAYATV" group-title="Lokal",DIGDAYATV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28726
+#EXTINF:-1 tvg-name="E!" group-title="Lokal",E!
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28786
+#EXTINF:-1 tvg-name="EWTN" group-title="Lokal",EWTN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28785
+#EXTINF:-1 tvg-name="i NEWS" group-title="Lokal",i NEWS
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6762
+#EXTINF:-1 tvg-name="Infotainment" group-title="Lokal",Infotainment
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28763
+#EXTINF:-1 tvg-name="Insan TV" group-title="Lokal",Insan TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28725
+#EXTINF:-1 tvg-name="Jak TV" group-title="Lokal",Jak TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28762
+#EXTINF:-1 tvg-name="JTV" group-title="Lokal",JTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18544
+#EXTINF:-1 tvg-name="Life Style Fashion" group-title="Lokal",Life Style Fashion
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28758
+#EXTINF:-1 tvg-name="Life Time" group-title="Lokal",Life Time
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28757
+#EXTINF:-1 tvg-name="MGSTV" group-title="Lokal",MGSTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28724
+#EXTINF:-1 tvg-name="MNC Entertainment" group-title="Lokal",MNC Entertainment
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28756
+#EXTINF:-1 tvg-name="MNC News" group-title="Lokal",MNC News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6748
+#EXTINF:-1 tvg-name="MNC Shop" group-title="Lokal",MNC Shop
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6746
+#EXTINF:-1 tvg-name="MTA TV" group-title="Lokal",MTA TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28723
+#EXTINF:-1 tvg-name="Music Channel" group-title="Lokal",Music Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28753
+#EXTINF:-1 tvg-name="Padang TV" group-title="Lokal",Padang TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28722
+#EXTINF:-1 tvg-name="PADANJTV" group-title="Lokal",PADANJTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28721
+#EXTINF:-1 tvg-name="RTV" group-title="Lokal",RTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18545
+#EXTINF:-1 tvg-name="RTV TV" group-title="Lokal",RTV TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28716
+#EXTINF:-1 tvg-name="TEGAR TV" group-title="Lokal",TEGAR TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28713
+#EXTINF:-1 tvg-name="Tegar TV" group-title="Lokal",Tegar TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28796
+#EXTINF:-1 tvg-name="The Indonesia Channel" group-title="Lokal",The Indonesia Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28712
+#EXTINF:-1 tvg-name="Travel Home" group-title="Lokal",Travel Home
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28737
+#EXTINF:-1 tvg-name="Trial Clubbing TV" group-title="Lokal",Trial Clubbing TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28736
+#EXTINF:-1 tvg-name="TV Edukasi" group-title="Lokal",TV Edukasi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28711
+#EXTINF:-1 tvg-name="TVKU TV" group-title="Lokal",TVKU TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28710
+#EXTINF:-1 tvg-name="UseePhoto" group-title="Lokal",UseePhoto
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33186
+#EXTINF:-1 tvg-name="UseePrime" group-title="Lokal",UseePrime
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33187
+#EXTINF:-1 tvg-name="V Channel" group-title="Lokal",V Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28735
+#EXTINF:-1 tvg-name="VIP:X" group-title="Lokal",VIP:X
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28764
+#EXTINF:-1 tvg-name="Wesal TV" group-title="Lokal",Wesal TV
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28709
-#EXTINF:-1 tvg-name="ZQ Sport HD" group-title="Indonesia",ZQ Sport HD
+#EXTINF:-1 tvg-name="ANTV" group-title="Nasional",ANTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6763
+#EXTINF:-1 tvg-name="GLOBAL TV" group-title="Nasional",GLOBAL TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6765
+#EXTINF:-1 tvg-name="Indosiar TV" group-title="Nasional",Indosiar TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6764
+#EXTINF:-1 tvg-name="Kompas TV" group-title="Nasional",Kompas TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/18554
+#EXTINF:-1 tvg-name="Metro" group-title="Nasional",Metro
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6758
+#EXTINF:-1 tvg-name="MNC TV" group-title="Nasional",MNC TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6760
+#EXTINF:-1 tvg-name="NET" group-title="Nasional",NET
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6754
+#EXTINF:-1 tvg-name="Rajawali Televisi" group-title="Nasional",Rajawali Televisi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28720
+#EXTINF:-1 tvg-name="RCTI" group-title="Nasional",RCTI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6759
+#EXTINF:-1 tvg-name="RTV5 Makin" group-title="Nasional",RTV5 Makin
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28745
+#EXTINF:-1 tvg-name="SC TV" group-title="Nasional",SCTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6756
+#EXTINF:-1 tvg-name="Trans 7" group-title="Nasional",Trans 7
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6752
+#EXTINF:-1 tvg-name="Trans TV" group-title="Nasional",Trans TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6751
+#EXTINF:-1 tvg-name="ONE TV" group-title="Nasional",TV ONE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6766
+#EXTINF:-1 tvg-name="TVRI" group-title="Nasional",TVRI
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6755
+#EXTINF:-1 tvg-name="ABC Australia" group-title="News",ABC Australia
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28817
+#EXTINF:-1 tvg-name="Arirang Korea" group-title="News",Arirang Korea
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28813
+#EXTINF:-1 tvg-name="BBC World News" group-title="News",BBC World News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28808
+#EXTINF:-1 tvg-name="Berita Satu" group-title="News",Berita Satu
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28806
+#EXTINF:-1 tvg-name="Bloomberg" group-title="News",Bloomberg
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28804
+#EXTINF:-1 tvg-name="CCTV4" group-title="News",CCTV4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28801
+#EXTINF:-1 tvg-name="CNBC" group-title="News",CNBC
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28800
+#EXTINF:-1 tvg-name="CNN" group-title="News",CNN
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28799
+#EXTINF:-1 tvg-name="CNN Indonesia" group-title="News",CNN Indonesia
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28727
+#EXTINF:-1 tvg-name="Euronews" group-title="News",Euronews
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28784
+#EXTINF:-1 tvg-name="Fox News" group-title="News",Fox News
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28773
+#EXTINF:-1 tvg-name="News Asia Channel" group-title="News",News Asia Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28749
+#EXTINF:-1 tvg-name="NHK HD" group-title="News",NHK HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6743
+#EXTINF:-1 tvg-name="Daai TV" group-title="Religi",Daai TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28792
+#EXTINF:-1 tvg-name="Hidayah" group-title="Religi",Hidayah
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28768
+#EXTINF:-1 tvg-name="Life" group-title="Religi",Life
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28759
+#EXTINF:-1 tvg-name="Reformed 21" group-title="Religi",Reformed 21
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28718
+#EXTINF:-1 tvg-name="Rodja TV" group-title="Religi",Rodja TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28717
+#EXTINF:-1 tvg-name="Sakti TV" group-title="Religi",Sakti TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28715
+#EXTINF:-1 tvg-name="Salam TV" group-title="Religi",Salam TV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28714
+#EXTINF:-1 tvg-name="TV9" group-title="Religi",TV9
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28740
+#EXTINF:-1 tvg-name="UChannel" group-title="Religi",UChannel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33185
+#EXTINF:-1 tvg-name="beIN Sports 1" group-title="Sport",beIN Sports 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28732
+#EXTINF:-1 tvg-name="beIN Sports 2" group-title="Sport",beIN Sports 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28731
+#EXTINF:-1 tvg-name="beIN Sports 3" group-title="Sport",beIN Sports 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28730
+#EXTINF:-1 tvg-name="Champion TV1 HD" group-title="Sport",Champion TV1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34547
+#EXTINF:-1 tvg-name="Champion TV2 HD" group-title="Sport",Champion TV2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34548
+#EXTINF:-1 tvg-name="Fight Sports" group-title="Sport",Fight Sports
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28781
+#EXTINF:-1 tvg-name="Fox Sports 1" group-title="Sport",Fox Sports 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28772
+#EXTINF:-1 tvg-name="Fox Sports 2" group-title="Sport",Fox Sports 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28771
+#EXTINF:-1 tvg-name="Fox Sports 3" group-title="Sport",Fox Sports 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28770
+#EXTINF:-1 tvg-name="MNC SPORT HD" group-title="Sport",MNC SPORT HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/6745
+#EXTINF:-1 tvg-name="Soccer Channel" group-title="Sport",Soccer Channel
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28742
+#EXTINF:-1 tvg-name="UseeSports" group-title="Sport",UseeSports
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33188
+#EXTINF:-1 tvg-name="UseeSports2" group-title="Sport",UseeSports2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33189
+#EXTINF:-1 tvg-name="ZQ Sport HD" group-title="Sport",ZQ Sport HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28719
+#EXTINF:-1 tvg-name="TVRI 3" group-title="TVRI",TVRI 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33178
+#EXTINF:-1 tvg-name="TVRI Aceh" group-title="TVRI",TVRI Aceh
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33177
+#EXTINF:-1 tvg-name="TVRI Bali" group-title="TVRI",TVRI Bali
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33184
+#EXTINF:-1 tvg-name="TVRI Bangka Belitung" group-title="TVRI",TVRI Bangka Belitung
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33176
+#EXTINF:-1 tvg-name="TVRI Bengkulu" group-title="TVRI",TVRI Bengkulu
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33175
+#EXTINF:-1 tvg-name="TVRI Gorontalo" group-title="TVRI",TVRI Gorontalo
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33183
+#EXTINF:-1 tvg-name="TVRI Jakarta" group-title="TVRI",TVRI Jakarta
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33174
+#EXTINF:-1 tvg-name="TVRI Jambi" group-title="TVRI",TVRI Jambi
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33173
+#EXTINF:-1 tvg-name="TVRI Jawa Barat" group-title="TVRI",TVRI Jawa Barat
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33172
+#EXTINF:-1 tvg-name="TVRI Jawa Tengah" group-title="TVRI",TVRI Jawa Tengah
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33171
+#EXTINF:-1 tvg-name="TVRI Jawa Timur" group-title="TVRI",TVRI Jawa Timur
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33170
+#EXTINF:-1 tvg-name="TVRI Kalimantan Barat" group-title="TVRI",TVRI Kalimantan Barat
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33169
+#EXTINF:-1 tvg-name="TVRI Kalimantan Selatan" group-title="TVRI",TVRI Kalimantan Selatan
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33168
+#EXTINF:-1 tvg-name="TVRI Kalimantan Tengah" group-title="TVRI",TVRI Kalimantan Tengah
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33182
+#EXTINF:-1 tvg-name="TVRI Kalimantan Timur" group-title="TVRI",TVRI Kalimantan Timur
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33181
+#EXTINF:-1 tvg-name="TVRI Lampung" group-title="TVRI",TVRI Lampung
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33167
+#EXTINF:-1 tvg-name="TVRI Maluku" group-title="TVRI",TVRI Maluku
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33166
+#EXTINF:-1 tvg-name="TVRI Nusa Tenggara Barat" group-title="TVRI",TVRI Nusa Tenggara Barat
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33165
+#EXTINF:-1 tvg-name="TVRI Nusa Tenggara Timur" group-title="TVRI",TVRI Nusa Tenggara Timur
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33164
+#EXTINF:-1 tvg-name="TVRI Papau" group-title="TVRI",TVRI Papau
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33163
+#EXTINF:-1 tvg-name="TVRI Riau" group-title="TVRI",TVRI Riau
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33162
+#EXTINF:-1 tvg-name="TVRI Sulawesi Barat" group-title="TVRI",TVRI Sulawesi Barat
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33180
+#EXTINF:-1 tvg-name="TVRI Sulawesi Selatan" group-title="TVRI",TVRI Sulawesi Selatan
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33179
+#EXTINF:-1 tvg-name="TVRI Sulawesi Tengah" group-title="TVRI",TVRI Sulawesi Tengah
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33161
+#EXTINF:-1 tvg-name="TVRI Sulawesi Tengggara" group-title="TVRI",TVRI Sulawesi Tengggara
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33160
+#EXTINF:-1 tvg-name="TVRI Sulawesi Utara" group-title="TVRI",TVRI Sulawesi Utara
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33159
+#EXTINF:-1 tvg-name="TVRI Sumatera Barat" group-title="TVRI",TVRI Sumatera Barat
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33158
+#EXTINF:-1 tvg-name="TVRI Sumatera Seletan" group-title="TVRI",TVRI Sumatera Seletan
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33157
+#EXTINF:-1 tvg-name="TVRI Yogyakarta" group-title="TVRI",TVRI Yogyakarta
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33156
 
-#EXTINF:-1 tvg-name="ABC Australia" group-title="Malaysia & Singapore",ABC Australia
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56304
+#EXTINF:-1 tvg-name="ASTRO AEC HD" group-title="Astro-Mandarin",ASTRO AEC HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28704
+#EXTINF:-1 tvg-name="ASTRO AOD 1" group-title="Astro-Mandarin",ASTRO AOD 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33288
+#EXTINF:-1 tvg-name="ASTRO AOD 2" group-title="Astro-Mandarin",ASTRO AOD 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33289
+#EXTINF:-1 tvg-name="ASTRO AOD 3" group-title="Astro-Mandarin",ASTRO AOD 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33290
+#EXTINF:-1 tvg-name="ASTRO AOD 4" group-title="Astro-Mandarin",ASTRO AOD 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33291
+#EXTINF:-1 tvg-name="ASTRO AOD 5" group-title="Astro-Mandarin",ASTRO AOD 5
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33292
+#EXTINF:-1 tvg-name="ASTRO HUA HEE DAI HD" group-title="Astro-Mandarin",ASTRO HUA HEE DAI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33273
+#EXTINF:-1 tvg-name="ASTRO QUAN JIA HD" group-title="Astro-Mandarin",ASTRO QUAN JIA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28703
+#EXTINF:-1 tvg-name="ASTRO SHUANG XING HD" group-title="Astro-Mandarin",ASTRO SHUANG XING HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28702
+#EXTINF:-1 tvg-name="ASTRO VAANAVIL HD" group-title="Astro-Mandarin",ASTRO VAANAVIL HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28700
+#EXTINF:-1 tvg-name="ASTRO VINMEEN HD" group-title="Astro-Mandarin",ASTRO VINMEEN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28699
+#EXTINF:-1 tvg-name="ASTRO WAH LAI TOI HD" group-title="Astro-Mandarin",ASTRO WAH LAI TOI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33275
+#EXTINF:-1 tvg-name="ASTRO XIAO TAI YANG" group-title="Astro-Mandarin",ASTRO XIAO TAI YANG
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28697
+#EXTINF:-1 tvg-name="AXN HD" group-title="Entertainment",AXN HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28696
+#EXTINF:-1 tvg-name="BLUE ANT ENTER" group-title="Entertainment",BLUE ANT ENTER
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33244
+#EXTINF:-1 tvg-name="BLUE ANT EXTREME" group-title="Entertainment",BLUE ANT EXTREME
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28692
+#EXTINF:-1 tvg-name="CCM" group-title="Entertainment",CCM
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9617
+#EXTINF:-1 tvg-name="CELESTIAL MOVIES" group-title="Entertainment",CELESTIAL MOVIES
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28688
+#EXTINF:-1 tvg-name="CINEMA WORLD HD" group-title="Entertainment",CINEMA WORLD HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28687
+#EXTINF:-1 tvg-name="CINEMAX HD" group-title="Entertainment",CINEMAX HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33258
+#EXTINF:-1 tvg-name="CLASSIC MOVIES CHINESE" group-title="Entertainment",CLASSIC MOVIES CHINESE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33262
+#EXTINF:-1 tvg-name="ENTERTAINMENT" group-title="Entertainment",ENTERTAINMENT
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28680
+#EXTINF:-1 tvg-name="FOX FAMILY MOVIES HD" group-title="Entertainment",FOX FAMILY MOVIES HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28678
+#EXTINF:-1 tvg-name="FOX LIFE HD" group-title="Entertainment",FOX LIFE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28677
+#EXTINF:-1 tvg-name="Fox Movies Action HD" group-title="Entertainment",Fox Movies Action HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28670
+#EXTINF:-1 tvg-name="Fox Movies Family" group-title="Entertainment",Fox Movies Family
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28669
+#EXTINF:-1 tvg-name="FOX MOVIES HD" group-title="Entertainment",FOX MOVIES HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28676
+#EXTINF:-1 tvg-name="FOX TV HD" group-title="Entertainment",FOX TV HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28672
+#EXTINF:-1 tvg-name="FX CINEMA HD" group-title="Entertainment",FX CINEMA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28671
+#EXTINF:-1 tvg-name="HBO FAMILY HD (Eng)" group-title="Entertainment",HBO FAMILY HD (Eng)
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34809
+#EXTINF:-1 tvg-name="HBO HD" group-title="Entertainment",HBO HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34793
+#EXTINF:-1 tvg-name="HBO HITS HD" group-title="Entertainment",HBO HITS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34804
+#EXTINF:-1 tvg-name="HBO RED" group-title="Entertainment",HBO RED
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34818
+#EXTINF:-1 tvg-name="HBO SIGNATURE HD" group-title="Entertainment",HBO SIGNATURE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34800
+#EXTINF:-1 tvg-name="HITS HD" group-title="Entertainment",HITS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28665
+#EXTINF:-1 tvg-name="HITS Movies" group-title="Entertainment",HITS Movies
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33276
+#EXTINF:-1 tvg-name="KBS World HD" group-title="Entertainment",KBS World HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56308
+#EXTINF:-1 tvg-name="KIX" group-title="Entertainment",KIX
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28662
+#EXTINF:-1 tvg-name="KPLUS HD" group-title="Entertainment",KPLUS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33268
+#EXTINF:-1 tvg-name="PARAMAUNT CHANNEL" group-title="Entertainment",PARAMAUNT CHANNEL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28652
+#EXTINF:-1 tvg-name="RED HBO HD" group-title="Entertainment",RED HBO HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28650
+#EXTINF:-1 tvg-name="SCM HD" group-title="Entertainment",SCM HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33249
+#EXTINF:-1 tvg-name="SCM LEGEND" group-title="Entertainment",SCM LEGEND
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33250
+#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Knowledge",ANIMAL PLANET
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28707
+#EXTINF:-1 tvg-name="ASIAN FOOD CHANNEL" group-title="Knowledge",ASIAN FOOD CHANNEL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28705
+#EXTINF:-1 tvg-name="BBC EARTH HD" group-title="Knowledge",BBC EARTH HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28694
+#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Knowledge",BBC LIFESTYLE
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28693
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Knowledge",DISCOVERY CHANNEL
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28686
+#EXTINF:-1 tvg-name="DISCOVERY SCI HD" group-title="Knowledge",DISCOVERY SCI HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33259
+#EXTINF:-1 tvg-name="HGTV" group-title="Knowledge",HGTV
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28667
+#EXTINF:-1 tvg-name="History HD" group-title="Knowledge",History HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9594
+#EXTINF:-1 tvg-name="NAT GEO ASIA HD" group-title="Knowledge",NAT GEO ASIA HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28659
+#EXTINF:-1 tvg-name="NAT GEO PEOPLE HD" group-title="Knowledge",NAT GEO PEOPLE HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28658
+#EXTINF:-1 tvg-name="NAT GEO WILD HD" group-title="Knowledge",NAT GEO WILD HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28657
 #EXTINF:-1 tvg-name="Adithya TV" group-title="Malaysia & Singapore",Adithya TV
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56300
 #EXTINF:-1 tvg-name="ANI PLUS HD" group-title="Malaysia & Singapore",ANI PLUS HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28708
-#EXTINF:-1 tvg-name="ANIMAL PLANET" group-title="Malaysia & Singapore",ANIMAL PLANET
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28707
 #EXTINF:-1 tvg-name="ANIMAX HD KD" group-title="Malaysia & Singapore",ANIMAX HD KD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28706
-#EXTINF:-1 tvg-name="ASIAN FOOD CHANNEL" group-title="Malaysia & Singapore",ASIAN FOOD CHANNEL
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28705
-#EXTINF:-1 tvg-name="ASTRO AEC HD" group-title="Malaysia & Singapore",ASTRO AEC HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28704
-#EXTINF:-1 tvg-name="ASTRO AOD 1" group-title="Malaysia & Singapore",ASTRO AOD 1
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33288
-#EXTINF:-1 tvg-name="ASTRO AOD 2" group-title="Malaysia & Singapore",ASTRO AOD 2
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33289
-#EXTINF:-1 tvg-name="ASTRO AOD 3" group-title="Malaysia & Singapore",ASTRO AOD 3
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33290
-#EXTINF:-1 tvg-name="ASTRO AOD 4" group-title="Malaysia & Singapore",ASTRO AOD 4
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33291
-#EXTINF:-1 tvg-name="ASTRO AOD 5" group-title="Malaysia & Singapore",ASTRO AOD 5
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33292
 #EXTINF:-1 tvg-name="ASTRO ARENA HD" group-title="Malaysia & Singapore",ASTRO ARENA HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9616
 #EXTINF:-1 tvg-name="ASTRO Aura" group-title="Malaysia & Singapore",ASTRO Aura
@@ -394,98 +484,42 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19174
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50889
 #EXTINF:-1 tvg-name="ASTRO Hello" group-title="Malaysia & Singapore",ASTRO Hello
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50890
-#EXTINF:-1 tvg-name="ASTRO HUA HEE DAI HD" group-title="Malaysia & Singapore",ASTRO HUA HEE DAI HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33273
 #EXTINF:-1 tvg-name="ASTRO OASIS" group-title="Malaysia & Singapore",ASTRO OASIS
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9615
 #EXTINF:-1 tvg-name="ASTRO PRIMA" group-title="Malaysia & Singapore",ASTRO PRIMA
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9614
-#EXTINF:-1 tvg-name="ASTRO QUAN JIA HD" group-title="Malaysia & Singapore",ASTRO QUAN JIA HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28703
 #EXTINF:-1 tvg-name="ASTRO Rania" group-title="Malaysia & Singapore",ASTRO Rania
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50891
 #EXTINF:-1 tvg-name="ASTRO RIA" group-title="Malaysia & Singapore",ASTRO RIA
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9613
 #EXTINF:-1 tvg-name="ASTRO Rugby Pass HD" group-title="Malaysia & Singapore",ASTRO Rugby Pass HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33277
-#EXTINF:-1 tvg-name="ASTRO SHUANG XING HD" group-title="Malaysia & Singapore",ASTRO SHUANG XING HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28702
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 1" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 1
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40598
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 1 HD" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 1 HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19170
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 2" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 2
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40599
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 2 HD" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 2 HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19171
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 3" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 3
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40600
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 3 HD" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 3 HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19172
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 4" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 4
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40601
-#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 4 HD" group-title="Malaysia & Singapore",ASTRO SUPERSPORTS 4 HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19173
 #EXTINF:-1 tvg-name="ASTRO TUTOR PT3" group-title="Malaysia & Singapore",ASTRO TUTOR PT3
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28698
 #EXTINF:-1 tvg-name="ASTRO TUTOR SPM" group-title="Malaysia & Singapore",ASTRO TUTOR SPM
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33243
-#EXTINF:-1 tvg-name="ASTRO VAANAVIL HD" group-title="Malaysia & Singapore",ASTRO VAANAVIL HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28700
-#EXTINF:-1 tvg-name="ASTRO VINMEEN HD" group-title="Malaysia & Singapore",ASTRO VINMEEN HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28699
-#EXTINF:-1 tvg-name="ASTRO WAH LAI TOI HD" group-title="Malaysia & Singapore",ASTRO WAH LAI TOI HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33275
 #EXTINF:-1 tvg-name="ASTRO WARNA" group-title="Malaysia & Singapore",ASTRO WARNA
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9612
 #EXTINF:-1 tvg-name="ASTRO WWE" group-title="Malaysia & Singapore",ASTRO WWE
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/50893
-#EXTINF:-1 tvg-name="ASTRO XIAO TAI YANG" group-title="Malaysia & Singapore",ASTRO XIAO TAI YANG
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28697
-#EXTINF:-1 tvg-name="AXN HD" group-title="Malaysia & Singapore",AXN HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28696
 #EXTINF:-1 tvg-name="BABY FIRST" group-title="Malaysia & Singapore",BABY FIRST
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28695
-#EXTINF:-1 tvg-name="BBC EARTH HD" group-title="Malaysia & Singapore",BBC EARTH HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28694
-#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Malaysia & Singapore",BBC LIFESTYLE
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28693
-#EXTINF:-1 tvg-name="BEIN MAX 2 HD" group-title="Malaysia & Singapore",BEIN MAX 2 HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33285
-#EXTINF:-1 tvg-name="BEIN MAX HD" group-title="Malaysia & Singapore",BEIN MAX HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33284
-#EXTINF:-1 tvg-name="BEIN SPORTS HD" group-title="Malaysia & Singapore",BEIN SPORTS HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20367
 #EXTINF:-1 tvg-name="BERNAMA" group-title="Malaysia & Singapore",BERNAMA
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56301
 #EXTINF:-1 tvg-name="BES" group-title="Malaysia & Singapore",BES
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56302
-#EXTINF:-1 tvg-name="BLUE ANT ENTER" group-title="Malaysia & Singapore",BLUE ANT ENTER
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33244
-#EXTINF:-1 tvg-name="BLUE ANT EXTREME" group-title="Malaysia & Singapore",BLUE ANT EXTREME
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28692
 #EXTINF:-1 tvg-name="BNC" group-title="Malaysia & Singapore",BNC
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33287
 #EXTINF:-1 tvg-name="BOOMERANG HD KD" group-title="Malaysia & Singapore",BOOMERANG HD KD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28690
 #EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Malaysia & Singapore",CARTOON NETWORK
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28689
-#EXTINF:-1 tvg-name="CCM" group-title="Malaysia & Singapore",CCM
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9617
-#EXTINF:-1 tvg-name="CELESTIAL MOVIES" group-title="Malaysia & Singapore",CELESTIAL MOVIES
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28688
 #EXTINF:-1 tvg-name="CGTN" group-title="Malaysia & Singapore",CGTN
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33257
 #EXTINF:-1 tvg-name="Choice TV" group-title="Malaysia & Singapore",Choice TV
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33261
 #EXTINF:-1 tvg-name="CHUTTI TV" group-title="Malaysia & Singapore",CHUTTI TV
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56305
-#EXTINF:-1 tvg-name="CINEMA WORLD HD" group-title="Malaysia & Singapore",CINEMA WORLD HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28687
-#EXTINF:-1 tvg-name="CINEMAX HD" group-title="Malaysia & Singapore",CINEMAX HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33258
-#EXTINF:-1 tvg-name="CLASSIC MOVIES CHINESE" group-title="Malaysia & Singapore",CLASSIC MOVIES CHINESE
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33262
 #EXTINF:-1 tvg-name="Colors Cineplex" group-title="Malaysia & Singapore",Colors Cineplex
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56309
 #EXTINF:-1 tvg-name="COLORS HD" group-title="Malaysia & Singapore",COLORS HD
@@ -496,10 +530,6 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33245
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33260
 #EXTINF:-1 tvg-name="CTI ASIA CHINESE" group-title="Malaysia & Singapore",CTI ASIA CHINESE
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33270
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" group-title="Malaysia & Singapore",DISCOVERY CHANNEL
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28686
-#EXTINF:-1 tvg-name="DISCOVERY SCI HD" group-title="Malaysia & Singapore",DISCOVERY SCI HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33259
 #EXTINF:-1 tvg-name="DISNEY CH" group-title="Malaysia & Singapore",DISNEY CH
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28685
 #EXTINF:-1 tvg-name="DISNEY JR" group-title="Malaysia & Singapore",DISNEY JR
@@ -512,58 +542,10 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28682
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33269
 #EXTINF:-1 tvg-name="DUNIA SINEMA" group-title="Malaysia & Singapore",DUNIA SINEMA
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28681
-#EXTINF:-1 tvg-name="EGG Network" group-title="Malaysia & Singapore",EGG Network
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56307
-#EXTINF:-1 tvg-name="ENTERTAINMENT" group-title="Malaysia & Singapore",ENTERTAINMENT
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28680
-#EXTINF:-1 tvg-name="EUROSPORT HD" group-title="Malaysia & Singapore",EUROSPORT HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56303
-#EXTINF:-1 tvg-name="EVERY GOOD GAME HD" group-title="Malaysia & Singapore",EVERY GOOD GAME HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28679
-#EXTINF:-1 tvg-name="FOX FAMILY MOVIES HD" group-title="Malaysia & Singapore",FOX FAMILY MOVIES HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28678
-#EXTINF:-1 tvg-name="FOX LIFE HD" group-title="Malaysia & Singapore",FOX LIFE HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28677
-#EXTINF:-1 tvg-name="Fox Movies Action HD" group-title="Malaysia & Singapore",Fox Movies Action HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28670
-#EXTINF:-1 tvg-name="Fox Movies Family" group-title="Malaysia & Singapore",Fox Movies Family
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28669
-#EXTINF:-1 tvg-name="FOX MOVIES HD" group-title="Malaysia & Singapore",FOX MOVIES HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28676
-#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Malaysia & Singapore",FOX SPORTS 1
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28675
-#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="Malaysia & Singapore",FOX SPORTS 2
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28674
-#EXTINF:-1 tvg-name="FOX SPORTS 3" group-title="Malaysia & Singapore",FOX SPORTS 3
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28673
-#EXTINF:-1 tvg-name="FOX TV HD" group-title="Malaysia & Singapore",FOX TV HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28672
-#EXTINF:-1 tvg-name="FX CINEMA HD" group-title="Malaysia & Singapore",FX CINEMA HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28671
-#EXTINF:-1 tvg-name="GNIX SPORTS HD" group-title="Malaysia & Singapore",GNIX SPORTS HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28668
 #EXTINF:-1 tvg-name="GO SHOP" group-title="Malaysia & Singapore",GO SHOP
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33283
 #EXTINF:-1 tvg-name="GOLF HD" group-title="Malaysia & Singapore",GOLF HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33272
-#EXTINF:-1 tvg-name="HBO FAMILY HD (Eng)" group-title="Malaysia & Singapore",HBO FAMILY HD (Eng)
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34809
-#EXTINF:-1 tvg-name="HBO HD" group-title="Malaysia & Singapore",HBO HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34793
-#EXTINF:-1 tvg-name="HBO HITS HD" group-title="Malaysia & Singapore",HBO HITS HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34804
-#EXTINF:-1 tvg-name="HBO RED" group-title="Malaysia & Singapore",HBO RED
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34818
-#EXTINF:-1 tvg-name="HBO SIGNATURE HD" group-title="Malaysia & Singapore",HBO SIGNATURE HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34800
-#EXTINF:-1 tvg-name="HGTV" group-title="Malaysia & Singapore",HGTV
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28667
-#EXTINF:-1 tvg-name="History HD" group-title="Malaysia & Singapore",History HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9594
-#EXTINF:-1 tvg-name="HITS HD" group-title="Malaysia & Singapore",HITS HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28665
-#EXTINF:-1 tvg-name="HITS Movies" group-title="Malaysia & Singapore",HITS Movies
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33276
 #EXTINF:-1 tvg-name="Horizon Sports HD" group-title="Malaysia & Singapore",Horizon Sports HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33293
 #EXTINF:-1 tvg-name="HYPP INSPIRASI HD" group-title="Malaysia & Singapore",HYPP INSPIRASI HD
@@ -574,12 +556,6 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28664
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33274
 #EXTINF:-1 tvg-name="JAYA MAX APAC Plus" group-title="Malaysia & Singapore",JAYA MAX APAC Plus
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28663
-#EXTINF:-1 tvg-name="KBS World HD" group-title="Malaysia & Singapore",KBS World HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56308
-#EXTINF:-1 tvg-name="KIX" group-title="Malaysia & Singapore",KIX
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28662
-#EXTINF:-1 tvg-name="KPLUS HD" group-title="Malaysia & Singapore",KPLUS HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33268
 #EXTINF:-1 tvg-name="Laku Mall" group-title="Malaysia & Singapore",Laku Mall
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28666
 #EXTINF:-1 tvg-name="MAX HD (Eng)" group-title="Malaysia & Singapore",MAX HD (Eng)
@@ -588,12 +564,6 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/34814
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28661
 #EXTINF:-1 tvg-name="MUTV HD" group-title="Malaysia & Singapore",MUTV HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28660
-#EXTINF:-1 tvg-name="NAT GEO ASIA HD" group-title="Malaysia & Singapore",NAT GEO ASIA HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28659
-#EXTINF:-1 tvg-name="NAT GEO PEOPLE HD" group-title="Malaysia & Singapore",NAT GEO PEOPLE HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28658
-#EXTINF:-1 tvg-name="NAT GEO WILD HD" group-title="Malaysia & Singapore",NAT GEO WILD HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28657
 #EXTINF:-1 tvg-name="NAURA TV" group-title="Malaysia & Singapore",NAURA TV
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28641
 #EXTINF:-1 tvg-name="NICK JR KD" group-title="Malaysia & Singapore",NICK JR KD
@@ -612,24 +582,16 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9610
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28653
 #EXTINF:-1 tvg-name="ONE HD" group-title="Malaysia & Singapore",ONE HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/51610
-#EXTINF:-1 tvg-name="PARAMAUNT CHANNEL" group-title="Malaysia & Singapore",PARAMAUNT CHANNEL
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28652
 #EXTINF:-1 tvg-name="PESONA HD" group-title="Malaysia & Singapore",PESONA HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28651
 #EXTINF:-1 tvg-name="POLIMER News" group-title="Malaysia & Singapore",POLIMER News
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33282
 #EXTINF:-1 tvg-name="RAJ TV APAC" group-title="Malaysia & Singapore",RAJ TV APAC
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33265
-#EXTINF:-1 tvg-name="RED HBO HD" group-title="Malaysia & Singapore",RED HBO HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28650
 #EXTINF:-1 tvg-name="RTM HD SPORTS" group-title="Malaysia & Singapore",RTM HD SPORTS
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56299
 #EXTINF:-1 tvg-name="SALAAM HD" group-title="Malaysia & Singapore",SALAAM HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33248
-#EXTINF:-1 tvg-name="SCM HD" group-title="Malaysia & Singapore",SCM HD
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33249
-#EXTINF:-1 tvg-name="SCM LEGEND" group-title="Malaysia & Singapore",SCM LEGEND
-http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33250
 #EXTINF:-1 tvg-name="SETANTA SPORTS HD" group-title="Malaysia & Singapore",SETANTA SPORTS HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28649
 #EXTINF:-1 tvg-name="SETi CHINESE" group-title="Malaysia & Singapore",SETi CHINESE
@@ -694,6 +656,8 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33281
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28635
 #EXTINF:-1 tvg-name="Zee Tamil HD" group-title="Malaysia & Singapore",Zee Tamil HD
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56306
+#EXTINF:-1 tvg-name="ABC Australia" group-title="News",ABC Australia
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56304
 #EXTINF:-1 tvg-name="CH-5" group-title="Singapore",CH-5
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9604
 #EXTINF:-1 tvg-name="CH-8" group-title="Singapore",CH-8
@@ -724,6 +688,42 @@ http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9598
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9611
 #EXTINF:-1 tvg-name="VASANTHAM" group-title="Singapore",VASANTHAM
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/9597
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 1" group-title="Sport",ASTRO SUPERSPORTS 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40598
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 1 HD" group-title="Sport",ASTRO SUPERSPORTS 1 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19170
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 2" group-title="Sport",ASTRO SUPERSPORTS 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40599
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 2 HD" group-title="Sport",ASTRO SUPERSPORTS 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19171
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 3" group-title="Sport",ASTRO SUPERSPORTS 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40600
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 3 HD" group-title="Sport",ASTRO SUPERSPORTS 3 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19172
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 4" group-title="Sport",ASTRO SUPERSPORTS 4
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/40601
+#EXTINF:-1 tvg-name="ASTRO SUPERSPORTS 4 HD" group-title="Sport",ASTRO SUPERSPORTS 4 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/19173
+#EXTINF:-1 tvg-name="BEIN MAX 2 HD" group-title="Sport",BEIN MAX 2 HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33285
+#EXTINF:-1 tvg-name="BEIN MAX HD" group-title="Sport",BEIN MAX HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/33284
+#EXTINF:-1 tvg-name="BEIN SPORTS HD" group-title="Sport",BEIN SPORTS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/20367
+#EXTINF:-1 tvg-name="EGG Network" group-title="Sport",EGG Network
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56307
+#EXTINF:-1 tvg-name="EUROSPORT HD" group-title="Sport",EUROSPORT HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/56303
+#EXTINF:-1 tvg-name="EVERY GOOD GAME HD" group-title="Sport",EVERY GOOD GAME HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28679
+#EXTINF:-1 tvg-name="FOX SPORTS 1" group-title="Sport",FOX SPORTS 1
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28675
+#EXTINF:-1 tvg-name="FOX SPORTS 2" group-title="Sport",FOX SPORTS 2
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28674
+#EXTINF:-1 tvg-name="FOX SPORTS 3" group-title="Sport",FOX SPORTS 3
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28673
+#EXTINF:-1 tvg-name="GNIX SPORTS HD" group-title="Sport",GNIX SPORTS HD
+http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/28668
 
 #EXTINF:-1 tvg-name="3 (HD)" group-title="Thailand & Cambodia",3 (HD)
 http://livegopanel.club:8080/QFWYb8JKaa/QSYDte0EvN/8247
