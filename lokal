@@ -1,25 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1552478277703508912.png",ATV
+http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",Arek
-http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+http://stream2.ninmedia.tv:1935/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",BMW TV
-http://stream1.ninmedia.tv:1935/bmwtv/udp.stream_360p/chunklist_w991863325.m3u8
+http://stream1.ninmedia.tv:1935/bmwtv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",HUGI City
-http://stream1.ninmedia.tv:1935/hugocity/udp.stream_360p/media_w15214322_3698.m3u8
+http://stream1.ninmedia.tv:1935/hugocity/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",MALEO TV
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8 
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",Nabawi TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",perserida sumsel 
-http://stream1.ninmedia.tv:1935/perserodasumsel/udp.stream_360p/chunklist_w293924600.m3u8
+http://stream1.ninmedia.tv:1935/perserodasumsel/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",Persija TV
-http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/chunklist_w324790620.m3u8
+http://stream1.ninmedia.tv:1935/persijatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",Space Toon
-http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/chunklist_w952071806.m3u8
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1536115719360341218.png",TVRI
-http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/chunklist_w1318890383.m3u8 
+http://stream1.ninmedia.tv:1935/tvrinasional/udp.stream_360p/playlist.m3u8 
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1543559777098897219.png",POP TV
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1552478277703508912.png",O SHOP TV
-http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.ninmedia.net/channel/1570604033419281794.png",LAPAK MUSIK TV
-http://stream1.ninmedia.tv:1935/lapakmusik/rtmp.stream_360p/chunklist_w1249146225.m3u8
+http://stream1.ninmedia.tv:1935/lapakmusik/rtmp.stream_360p/playlist.m3u8
