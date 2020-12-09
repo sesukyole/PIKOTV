@@ -23,3 +23,7 @@ http://stream1.ninmedia.tv:1935/paltv/rtmp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv:1935/betv/rtmp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RB TV
 http://stream1.ninmedia.tv:1935/rbtv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HP4hpMS.jpg" group-title="Religi",Live Makkah 
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5HJxlCN.png" group-title="Religi",Al Bahjah
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
