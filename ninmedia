@@ -27,3 +27,7 @@ http://stream1.ninmedia.tv:1935/rbtv/rtmp.stream_360p/playlist.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5HJxlCN.png" group-title="Religi",Al Bahjah
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="127.0.0.1" group-title="HIBURAN MOVIES",ZQ DRAMA KOREA
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 tvg-logo="127.0.0.1" group-title="HIBURAN MOVIES",ZQ SPORT
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0 
