@@ -31,3 +31,15 @@ https://edge.siar.us/albahjahtv/live/playlist.m3u8
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 tvg-logo="127.0.0.1" group-title="NINMEDIA",ZQ SPORT
 http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0 
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="NINMEDIA",Animal Planet
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="NINMEDIA",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="NINMEDIA",Discovery Channel
+http://136.243.177.164/DISCOVERYCHANNEL/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Crime" tvg-logo="" group-title="NINMEDIA",Fox Crime
+http://136.243.177.164/FOXCRIME/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox" tvg-logo="" group-title="NINMEDIA",Fox
+http://136.243.177.164/FOX/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="" group-title="NINMEDIA",Fox Life
+http://136.243.177.164/FOXLIFE/playlist.m3u8
