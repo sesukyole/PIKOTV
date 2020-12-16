@@ -1,2 +1,0 @@
-# PIKOTV
-Channel IPTV
